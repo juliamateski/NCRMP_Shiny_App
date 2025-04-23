@@ -1,0 +1,12 @@
+name: NCRMP_Benthics
+title: NCRMP_Benthics
+username: juliamateski
+account: juliamateski
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14577931
+bundleId:
+url: https://juliamateski.shinyapps.io/NCRMP_Benthics/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
