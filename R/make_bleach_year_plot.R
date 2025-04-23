@@ -8,7 +8,10 @@ make_bleach_year_plot <- function(region, species){
     ggplot(aes(x = YEAR, y = avBlePrev)) +
     geom_line() +  
     geom_point(size = 2) + 
-    geom_errorbar(aes(ymin = avBlePrev - SE_B, ymax = avBlePrev + SE_B), width = 0.2) +  # Add error bars
+    geom_errorbar(aes(
+      ymin = pmax(avBlePrev - SE_B, 0),  
+      ymax = avBlePrev + SE_B
+    ), width = 0.2)+
     labs(
       x = "Year",
       y = "Average Bleaching",
