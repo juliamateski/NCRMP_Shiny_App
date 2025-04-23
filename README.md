@@ -11,3 +11,5 @@ This dashboard was built to support visualization and analysis of coral reef hea
 - Bleaching and disease prevalence by year and species
 - Benthic community assessment
 - Interactive Leaflet map with habitat data
+
+*Author: Julia Mateski*
