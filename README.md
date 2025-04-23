@@ -12,4 +12,3 @@ This dashboard was built to support visualization and analysis of coral reef hea
 - Benthic community assessment
 - Interactive Leaflet map with habitat data
 
-*Author: Julia Mateski*
