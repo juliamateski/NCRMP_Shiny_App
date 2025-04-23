@@ -10,5 +10,6 @@ This dashboard was built to support visualization and analysis of coral reef hea
 - Region- and species-specific size frequency plots
 - Bleaching and disease prevalence by year and species
 - Benthic community assessment
+- Species specific coral demographics
 - Interactive Leaflet map with habitat data
 
