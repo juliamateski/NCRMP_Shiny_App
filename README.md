@@ -4,7 +4,7 @@ This interactive Shiny application visualizes coral reef monitoring data from th
 
 ## 🌍 Project Overview
 
-This dashboard was built to support visualization and analysis of coral reef health data, providing tools for researchers, managers, and the public to engage with key reef indicators.
+This dashboard was built to support visualization and analysis of coral reef health data
 
 **Key Features:**
 - Region- and species-specific size frequency plots
